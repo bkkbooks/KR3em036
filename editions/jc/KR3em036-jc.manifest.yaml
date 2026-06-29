@@ -1,0 +1,384 @@
+canonical_identifier: bkk:krp/KR3em036/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em036/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 喉科心法
+  identifiers:
+    krp: KR3em036
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em036.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em036_000-jc.yaml, hash: 'sha256:5276943eb8338c084919eca8aceb804d8598793cec8379447ce3406b874928bb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em036_000-jc.markers.yaml, hash: 'sha256:315a8e18999b677e9ce4da5bf16fb1b5ba12c2206e2a939569603ac1b3f0f999'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 166
+  label: 弁言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d3.h1s1
+    span:
+    - body
+    - 166
+    - 841
+  label: 臨症要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d4.h1s1
+    span:
+    - body
+    - 841
+    - 2235
+  label: 陽症喉痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d5.h1s1
+    span:
+    - body
+    - 2235
+    - 2811
+  label: 纏喉風即走馬喉風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d6.h1s1
+    span:
+    - body
+    - 2811
+    - 2917
+  label: 緊喉風啞瘴喉風弄舌喉風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d7.h1s1
+    span:
+    - body
+    - 2917
+    - 3301
+  label: 大頭瘟喉痹並捻頸瘟喉痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d8.h1s1
+    span:
+    - body
+    - 3301
+    - 3459
+  label: 單蛾雙蛾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d9.h1s1
+    span:
+    - body
+    - 3459
+    - 3610
+  label: 喉疔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d10.h1s1
+    span:
+    - body
+    - 3610
+    - 3712
+  label: 鎖喉毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d11.h1s1
+    span:
+    - body
+    - 3712
+    - 3827
+  label: 上齶癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d12.h1s1
+    span:
+    - body
+    - 3827
+    - 3946
+  label: 喉瘤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d13.h1s1
+    span:
+    - body
+    - 3946
+    - 4312
+  label: 喉瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d14.h1s1
+    span:
+    - body
+    - 4312
+    - 4900
+  label: 喉舌破爛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d15.h1s1
+    span:
+    - body
+    - 4900
+    - 5650
+  label: 陰症喉痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d16.h1s1
+    span:
+    - body
+    - 5650
+    - 5939
+  label: 氣虛喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d17.h1s1
+    span:
+    - body
+    - 5939
+    - 6142
+  label: 血虛喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d18.h1s1
+    span:
+    - body
+    - 6142
+    - 6672
+  label: 陰虛喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d19.h1s1
+    span:
+    - body
+    - 6672
+    - 6850
+  label: 癆嗽咽喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d20.h1s1
+    span:
+    - body
+    - 6850
+    - 7157
+  label: 咽喉痛失音
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d21.h1s1
+    span:
+    - body
+    - 7157
+    - 7265
+  label: 梅核氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d22.h1s1
+    span:
+    - body
+    - 7265
+    - 8072
+  label: 婦人胎前產後喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d23.h1s1
+    span:
+    - body
+    - 8072
+    - 8332
+  label: 幼小喉痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d24.h1s1
+    span:
+    - body
+    - 8332
+    - 8674
+  label: 肺絕喉痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d25.h1s1
+    span:
+    - body
+    - 8674
+    - 10495
+  label: 雜症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d25d86
+    span:
+    - body
+    - 10196
+    - 10495
+  label: 小兒木舌䖳舌舌腫脹舌瘡破爛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d26.h1s1
+    span:
+    - body
+    - 10495
+    - 10563
+  label: 重齶
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d27.h1s1
+    span:
+    - body
+    - 10563
+    - 10574
+  label: 重齦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d28.h1s1
+    span:
+    - body
+    - 10574
+    - 10651
+  label: 鵝口瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d29.h1s1
+    span:
+    - body
+    - 10651
+    - 10682
+  label: 馬牙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d30.h1s1
+    span:
+    - body
+    - 10682
+    - 10794
+  label: 兒腮癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d31.h1s1
+    span:
+    - body
+    - 10794
+    - 12914
+  label: 內服諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d32.h1s1
+    span:
+    - body
+    - 12914
+    - 13707
+  label: 外治諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d33.h1s1
+    span:
+    - body
+    - 13707
+    - 13857
+  label: 少商穴圖說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d34.h1s1
+    span:
+    - body
+    - 13857
+    - 14181
+  label: 避瘟防護良法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d35.h1s1
+    span:
+    - body
+    - 14181
+    - 14429
+  label: 醫案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em036_jc_000-d36.h1s1
+    span:
+    - body
+    - 14429
+    - 14895
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:6a1b1d165013626554a091196450b6c42f80856eb48d628d3254a78cb776eb5c
